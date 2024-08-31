@@ -1,4 +1,4 @@
-# Hi there, I'm Nada 👋
+# Hi there, I'm Nada 👋🏼
 
 ## About Me
 
