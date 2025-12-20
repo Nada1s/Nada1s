@@ -10,9 +10,9 @@ I am an aspiring software engineer. Currently, I am focused on mastering Java an
 ## Skills
 
 - **Languages**: PHP, Java, JavaScript, HTML, CSS
-- **Frameworks**: Bootstrap
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, Visual Studio Code
+- **Frameworks**: Bootstrap, Spring Boot 
+- **Databases**: MySQL, MongoDB 
+- **Tools**: Git, GitHub, Visual Studio Code, IntelliJ IDEA
 
 ## Interests
 
