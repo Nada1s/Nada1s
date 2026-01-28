@@ -5,11 +5,10 @@
 I am an aspiring software engineer. Currently, I am focused on mastering Java and exploring new technologies. I am eager to contribute to dynamic projects and continuously learn and grow in the field of software engineering.
 
 - 🌱 I’m currently learning **Java**.
-- 💼 I’m looking to collaborate on **open-source projects**.
 
 ## Skills
 
-- **Languages**: PHP, Java, JavaScript, HTML, CSS
+- **Languages**: PHP, Java, JavaScript, C
 - **Frameworks**: Bootstrap, Spring Boot 
 - **Databases**: MySQL, MongoDB 
 - **Tools**: Git, GitHub, Visual Studio Code, IntelliJ IDEA
@@ -17,6 +16,5 @@ I am an aspiring software engineer. Currently, I am focused on mastering Java an
 ## Interests
 
 - Exploring new programming languages and frameworks
-- Contributing to open-source projects
 - Learning about software development best practices
 
